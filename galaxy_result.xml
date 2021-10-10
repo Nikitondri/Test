@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GALAXY>
+    <STAR_SYSTEM>
+        <NAME>Solar system</NAME>
+        <NUMBER_BODIES>13</NUMBER_BODIES>
+        <TOTAL_WEIGHT>1.008605319</TOTAL_WEIGHT>
+    </STAR_SYSTEM>
+    <STAR_SYSTEM>
+        <NAME>Centauri</NAME>
+        <NUMBER_BODIES>18</NUMBER_BODIES>
+        <TOTAL_WEIGHT>11.003225027000001</TOTAL_WEIGHT>
+    </STAR_SYSTEM>
+    <STAR_SYSTEM>
+        <NAME>Sirius</NAME>
+        <NUMBER_BODIES>10</NUMBER_BODIES>
+        <TOTAL_WEIGHT>2.7056215679999998</TOTAL_WEIGHT>
+    </STAR_SYSTEM>
+</GALAXY>

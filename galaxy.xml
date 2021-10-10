@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GALAXY>
+    <STAR_SYSTEM>
+        <NAME>Sirius</NAME>
+        <STAR>
+            <NAME>Sirius A</NAME>
+            <WEIGHT>2</WEIGHT>
+            <TEMPERATURE>9667</TEMPERATURE>
+            <SIZE>1.7</SIZE>
+            <STAR_CLASS>A1</STAR_CLASS>
+            <COLOR>white</COLOR>
+            <PLANET>
+                <NAME>Planet 1</NAME>
+                <WEIGHT>0.0004547</WEIGHT>
+                <TEMPERATURE>450</TEMPERATURE>
+                <SIZE>0.00869</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 1</NAME>
+                    <WEIGHT>0.000000047</WEIGHT>
+                    <TEMPERATURE>127</TEMPERATURE>
+                    <SIZE>0.0000469</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 2</NAME>
+                <WEIGHT>0.0040547</WEIGHT>
+                <TEMPERATURE>750</TEMPERATURE>
+                <SIZE>0.00519</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 2</NAME>
+                    <WEIGHT>0.000000068</WEIGHT>
+                    <TEMPERATURE>131</TEMPERATURE>
+                    <SIZE>0.0000569</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+                <SATELLITE>
+                    <NAME>satellite 3</NAME>
+                    <WEIGHT>0.000000088</WEIGHT>
+                    <TEMPERATURE>99</TEMPERATURE>
+                    <SIZE>0.0000212</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+        </STAR>
+        <STAR>
+            <NAME>Sirius B</NAME>
+            <WEIGHT>0.7</WEIGHT>
+            <TEMPERATURE>9940</TEMPERATURE>
+            <SIZE>0.9</SIZE>
+            <STAR_CLASS>A1</STAR_CLASS>
+            <COLOR>white</COLOR>
+            <PLANET>
+                <NAME>Planet 3</NAME>
+                <WEIGHT>0.0006531</WEIGHT>
+                <TEMPERATURE>400</TEMPERATURE>
+                <SIZE>0.00741</SIZE>
+                <PLANET_CLASS>dwarf planet</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 4</NAME>
+                <WEIGHT>0.0004588</WEIGHT>
+                <TEMPERATURE>890</TEMPERATURE>
+                <SIZE>0.00432</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 4</NAME>
+                    <WEIGHT>0.000000065</WEIGHT>
+                    <TEMPERATURE>119</TEMPERATURE>
+                    <SIZE>0.0000329</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+        </STAR>
+    </STAR_SYSTEM>
+    <STAR_SYSTEM>
+        <NAME>Centauri</NAME>
+        <STAR>
+            <NAME>Centauri A</NAME>
+            <WEIGHT>3</WEIGHT>
+            <TEMPERATURE>8167</TEMPERATURE>
+            <SIZE>1.3</SIZE>
+            <STAR_CLASS>A2</STAR_CLASS>
+            <COLOR>red</COLOR>
+            <PLANET>
+                <NAME>Planet 5</NAME>
+                <WEIGHT>0.0006547</WEIGHT>
+                <TEMPERATURE>342</TEMPERATURE>
+                <SIZE>0.00561</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 5</NAME>
+                    <WEIGHT>0.000000147</WEIGHT>
+                    <TEMPERATURE>153</TEMPERATURE>
+                    <SIZE>0.0005400</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 6</NAME>
+                <WEIGHT>0.0003547</WEIGHT>
+                <TEMPERATURE>555</TEMPERATURE>
+                <SIZE>0.00601</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 6</NAME>
+                    <WEIGHT>0.000000108</WEIGHT>
+                    <TEMPERATURE>101</TEMPERATURE>
+                    <SIZE>0.0000169</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+                <SATELLITE>
+                    <NAME>satellite 7</NAME>
+                    <WEIGHT>0.000000888</WEIGHT>
+                    <TEMPERATURE>111</TEMPERATURE>
+                    <SIZE>0.0000242</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 7</NAME>
+                <WEIGHT>0.0001547</WEIGHT>
+                <TEMPERATURE>333</TEMPERATURE>
+                <SIZE>0.00201</SIZE>
+                <PLANET_CLASS>Dwarf planet</PLANET_CLASS>
+            </PLANET>
+        </STAR>
+        <STAR>
+            <NAME>Centauri B</NAME>
+            <WEIGHT>2.5</WEIGHT>
+            <TEMPERATURE>8167</TEMPERATURE>
+            <SIZE>1.3</SIZE>
+            <STAR_CLASS>A2</STAR_CLASS>
+            <COLOR>Blue</COLOR>
+            <PLANET>
+                <NAME>Planet 8</NAME>
+                <WEIGHT>0.0002333</WEIGHT>
+                <TEMPERATURE>432</TEMPERATURE>
+                <SIZE>0.00521</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 9</NAME>
+                <WEIGHT>0.0003222</WEIGHT>
+                <TEMPERATURE>456</TEMPERATURE>
+                <SIZE>0.00401</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 8</NAME>
+                    <WEIGHT>0.000008321</WEIGHT>
+                    <TEMPERATURE>98</TEMPERATURE>
+                    <SIZE>0.0000421</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+        </STAR>
+        <STAR>
+            <NAME>Centauri C</NAME>
+            <WEIGHT>5.5</WEIGHT>
+            <TEMPERATURE>10167</TEMPERATURE>
+            <SIZE>5.3</SIZE>
+            <STAR_CLASS>A3</STAR_CLASS>
+            <COLOR>White</COLOR>
+            <PLANET>
+                <NAME>Planet 9</NAME>
+                <WEIGHT>0.0005525</WEIGHT>
+                <TEMPERATURE>312</TEMPERATURE>
+                <SIZE>0.00421</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 9</NAME>
+                    <WEIGHT>0.000003321</WEIGHT>
+                    <TEMPERATURE>180</TEMPERATURE>
+                    <SIZE>0.0000311</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 10</NAME>
+                <WEIGHT>0.0002002</WEIGHT>
+                <TEMPERATURE>356</TEMPERATURE>
+                <SIZE>0.00381</SIZE>
+                <PLANET_CLASS>Terrestrial</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>satellite 10</NAME>
+                    <WEIGHT>0.000003021</WEIGHT>
+                    <TEMPERATURE>88</TEMPERATURE>
+                    <SIZE>0.0000228</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+                <SATELLITE>
+                    <NAME>satellite 11</NAME>
+                    <WEIGHT>0.000004421</WEIGHT>
+                    <TEMPERATURE>120</TEMPERATURE>
+                    <SIZE>0.0000428</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Planet 11</NAME>
+                <WEIGHT>0.0007325</WEIGHT>
+                <TEMPERATURE>252</TEMPERATURE>
+                <SIZE>0.00711</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+            </PLANET>
+        </STAR>
+    </STAR_SYSTEM>
+    <STAR_SYSTEM>
+        <NAME>Solar system</NAME>
+        <STAR>
+            <NAME>Solar</NAME>
+            <WEIGHT>1</WEIGHT>
+            <TEMPERATURE>5778</TEMPERATURE>
+            <SIZE>1</SIZE>
+            <STAR_CLASS>A1</STAR_CLASS>
+            <COLOR>White</COLOR>
+            <PLANET>
+                <NAME>Mercury</NAME>
+                <WEIGHT>0.0000325</WEIGHT>
+                <TEMPERATURE>852</TEMPERATURE>
+                <SIZE>0.00021</SIZE>
+                <PLANET_CLASS>Dwarf planet</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Venus</NAME>
+                <WEIGHT>0.0001425</WEIGHT>
+                <TEMPERATURE>442</TEMPERATURE>
+                <SIZE>0.00341</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Earth</NAME>
+                <WEIGHT>0.0002025</WEIGHT>
+                <TEMPERATURE>220</TEMPERATURE>
+                <SIZE>0.002141</SIZE>
+                <PLANET_CLASS>Terrestrial</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>Moon</NAME>
+                    <WEIGHT>0.000001201</WEIGHT>
+                    <TEMPERATURE>90</TEMPERATURE>
+                    <SIZE>0.0000218</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Mars</NAME>
+                <WEIGHT>0.0001925</WEIGHT>
+                <TEMPERATURE>320</TEMPERATURE>
+                <SIZE>0.001941</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+                <SATELLITE>
+                    <NAME>Phobos</NAME>
+                    <WEIGHT>0.000002109</WEIGHT>
+                    <TEMPERATURE>110</TEMPERATURE>
+                    <SIZE>0.0000418</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+                <SATELLITE>
+                    <NAME>Deimos</NAME>
+                    <WEIGHT>0.000001509</WEIGHT>
+                    <TEMPERATURE>125</TEMPERATURE>
+                    <SIZE>0.0000368</SIZE>
+                    <SATELLITE_TYPE>natural</SATELLITE_TYPE>
+                </SATELLITE>
+            </PLANET>
+            <PLANET>
+                <NAME>Jupiter</NAME>
+                <WEIGHT>0.0013025</WEIGHT>
+                <TEMPERATURE>420</TEMPERATURE>
+                <SIZE>0.007941</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Saturn</NAME>
+                <WEIGHT>0.004112</WEIGHT>
+                <TEMPERATURE>380</TEMPERATURE>
+                <SIZE>0.007241</SIZE>
+                <PLANET_CLASS>Gas giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Uranus</NAME>
+                <WEIGHT>0.001372</WEIGHT>
+                <TEMPERATURE>120</TEMPERATURE>
+                <SIZE>0.001241</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Neptune</NAME>
+                <WEIGHT>0.000972</WEIGHT>
+                <TEMPERATURE>90</TEMPERATURE>
+                <SIZE>0.000741</SIZE>
+                <PLANET_CLASS>Ice giant</PLANET_CLASS>
+            </PLANET>
+            <PLANET>
+                <NAME>Pluto</NAME>
+                <WEIGHT>0.000272</WEIGHT>
+                <TEMPERATURE>60</TEMPERATURE>
+                <SIZE>0.000241</SIZE>
+                <PLANET_CLASS>Dwarf planet</PLANET_CLASS>
+            </PLANET>
+        </STAR>>
+    </STAR_SYSTEM>
+</GALAXY>
