@@ -26,7 +26,7 @@ public class IOInfo {
         return documentBuilder.parse(new File(PATCH));
     }
 
-    private static void fillOutputElements(Document document, Galaxy galaxy){
+    private static void fillInputElements(Document document, Galaxy galaxy){
         Element root = document.createElement("GALAXY");
         document.appendChild(root);
         for(StarSystem starSystem: galaxy.getStarSystems()){
@@ -47,7 +47,7 @@ public class IOInfo {
     public static void inputFile(Galaxy galaxy) throws ParserConfigurationException, TransformerException {
         DocumentBuilder documentBuilder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
         Document document = documentBuilder.newDocument();
-        fillOutputElements(document, galaxy);
+        fillInputElements(document, galaxy);
         File file = new File(INPUT_PATH);
         Transformer transformer = TransformerFactory.newInstance().newTransformer();
         transformer.setOutputProperty(OutputKeys.INDENT, "yes");
